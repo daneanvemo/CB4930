@@ -1,0 +1,31 @@
+2015-03-31 22:27:19.171 CB4930[8933:463967] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dananv/Library/Developer/CoreSimulator/Devices/04EE9DC2-51D0-4040-B0BB-62839CB8B830/data/Containers/Data/Application/FDD9329C-48EE-4748-8120-6950A7F76558/Library/Cookies/Cookies.binarycookies
+2015-03-31 22:27:19.508 CB4930[8933:463967] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-31 22:27:19.508 CB4930[8933:463967] Multi-tasking -> Device: YES, App: YES
+2015-03-31 22:27:19.529 CB4930[8933:463967] Unlimited access to network resources
+2015-03-31 22:27:19.543 CB4930[8933:463967] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 22:27:20.382 CB4930[8933:464065] Terminating since there is no system app.
+2015-03-31 22:34:02.085 CB4930[9253:468256] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dananv/Library/Developer/CoreSimulator/Devices/04EE9DC2-51D0-4040-B0BB-62839CB8B830/data/Containers/Data/Application/BF4277D7-A694-4243-B881-03C3060BABE3/Library/Cookies/Cookies.binarycookies
+2015-03-31 22:34:02.199 CB4930[9253:468256] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-31 22:34:02.199 CB4930[9253:468256] Multi-tasking -> Device: YES, App: YES
+2015-03-31 22:34:02.203 CB4930[9253:468256] Unlimited access to network resources
+2015-03-31 22:34:02.207 CB4930[9253:468256] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 22:34:02.482 CB4930[9253:468256] Resetting plugins due to page load.
+2015-03-31 22:34:02.644 CB4930[9253:468256] Finished load of: file:///Users/dananv/Library/Developer/CoreSimulator/Devices/04EE9DC2-51D0-4040-B0BB-62839CB8B830/data/Containers/Bundle/Application/02036049-7A7B-47F1-855F-AF0DF00F5259/CB4930.app/www/index.html
+2015-03-31 22:34:05.689 CB4930[9253:468256] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-03-31 22:34:05.689 CB4930[9253:468256] Setting the WebView's frame to {{0, 0}, {375, 667}}
+2015-03-31 22:34:05.705 CB4930[9253:468256] THREAD WARNING: ['InAppBrowser'] took '123.223877' ms. Plugin should use a background thread.
+2015-03-31 22:34:17.792 CB4930[9253:468289] Terminating since there is no system app.
